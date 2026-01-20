@@ -10,7 +10,6 @@
 ## 🎯 Funcionalidades Principais
 
 * **📊 Análise de Perfil:** Algoritmo que classifica o corredor (Amador a Elite) baseado no tempo de referência de 5km.
-* **⏱️ Calculadora de Pace:** Conversão automática de tempo decimal para sexagesimal (ex: converte o cálculo interno `3.8` para `3:48 min/km`).
 * **📅 Geração de Planilha:** Criação dinâmica de treinos semanais (Rodagem, Intervalado, Fartlek, Longão) respeitando a disponibilidade do usuário.
 * **💾 Persistência de Dados:** Sistema de Save/Load utilizando JSON para armazenar múltiplos perfis de atletas.
 * **🎨 Interface Rica:** Uso de códigos ANSI para uma experiência de terminal colorida e organizada.
