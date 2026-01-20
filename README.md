@@ -6,7 +6,6 @@
 
 **CoachRunner Pro** é um sistema de planejamento de treinos de corrida via linha de comando (CLI). Ele atua como um treinador virtual inteligente, utilizando algoritmos para determinar o nível técnico do atleta e gerar planilhas semanais personalizadas, baseadas em metodologias científicas de treinamento esportivo.
 
-> O projeto demonstra a aplicação de **Programação Orientada a Objetos**, **Persistência de Dados** e **Matemática Computacional** aplicada ao esporte.
 
 ## 📸 Screenshots
 
